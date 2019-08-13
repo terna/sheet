@@ -1,2 +1,4 @@
 # sheet
- experiencing with ipysheet
+ Experiencing with ipysheet. 
+
+ Try run the code online at
