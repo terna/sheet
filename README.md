@@ -1,2 +1,2 @@
 # sheet
- experiments with ipysheet
+ experiencing with ipysheet
